@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\Zad_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06402F31-929A-4221-81D5-E36FED889EBB}|..\\STL-SMART_POINTERY\\STL-SMART_POINTERY.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-SMART_POINTERY\\InteligentneWskazniki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CF80CD-C552-476A-A0DB-144DF419F2F9}|..\\STL-ITERATORY\\STL-ITERATORY.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ITERATORY\\ZaawasnowaneIteratory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CF80CD-C552-476A-A0DB-144DF419F2F9}|..\\STL-ITERATORY\\STL-ITERATORY.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ITERATORY\\ITERATORY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937224BA-7944-4ACA-8CC5-F697AD426C1E}|..\\STL-ALGORITHM\\STL-ALGORITHM.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ALGORITHM\\ALGORITHM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B096ABCE-FD22-42B4-BF4D-17108433A31C}|..\\STL-FORWARD_LIST\\STL-FORWARD_LIST.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-FORWARD_LIST\\FORWARD_LIST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InteligentneWskazniki.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-SMART_POINTERY\\InteligentneWskazniki.cpp",
+              "RelativeDocumentMoniker": "..\\STL-SMART_POINTERY\\InteligentneWskazniki.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-SMART_POINTERY\\InteligentneWskazniki.cpp",
+              "RelativeToolTip": "..\\STL-SMART_POINTERY\\InteligentneWskazniki.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T13:43:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZaawasnowaneIteratory.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ITERATORY\\ZaawasnowaneIteratory.cpp",
+              "RelativeDocumentMoniker": "..\\STL-ITERATORY\\ZaawasnowaneIteratory.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ITERATORY\\ZaawasnowaneIteratory.cpp",
+              "RelativeToolTip": "..\\STL-ITERATORY\\ZaawasnowaneIteratory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T13:12:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ALGORITHM.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ALGORITHM\\ALGORITHM.cpp",
+              "RelativeDocumentMoniker": "..\\STL-ALGORITHM\\ALGORITHM.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ALGORITHM\\ALGORITHM.cpp",
+              "RelativeToolTip": "..\\STL-ALGORITHM\\ALGORITHM.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T00:00:38.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FORWARD_LIST.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-FORWARD_LIST\\FORWARD_LIST.cpp",
+              "RelativeDocumentMoniker": "..\\STL-FORWARD_LIST\\FORWARD_LIST.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-FORWARD_LIST\\FORWARD_LIST.cpp",
+              "RelativeToolTip": "..\\STL-FORWARD_LIST\\FORWARD_LIST.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T23:53:17.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITERATORY.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ITERATORY\\ITERATORY.cpp",
+              "RelativeDocumentMoniker": "..\\STL-ITERATORY\\ITERATORY.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_10_Ksiazek\\STL-ITERATORY\\ITERATORY.cpp",
+              "RelativeToolTip": "..\\STL-ITERATORY\\ITERATORY.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T22:24:48.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

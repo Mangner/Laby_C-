@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_8_Ksiazek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB505EE1-282D-4458-B093-8E4E4E3AD791}|..\\RTTI_const_static_reinterpreterCast\\RTTI_const_static_reinterpreterCast.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\RTTI_const_static_reinterpreterCast\\Casty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5ECB17-6A3E-4860-82D9-A4D1261D4FB4}|..\\RTTI\\RTTI.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\RTTI\\RunTimeTypeIdentification.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Casty.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\RTTI_const_static_reinterpreterCast\\Casty.cpp",
+              "RelativeDocumentMoniker": "..\\RTTI_const_static_reinterpreterCast\\Casty.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\RTTI_const_static_reinterpreterCast\\Casty.cpp",
+              "RelativeToolTip": "..\\RTTI_const_static_reinterpreterCast\\Casty.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T23:25:46.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunTimeTypeIdentification.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\RTTI\\RunTimeTypeIdentification.cpp",
+              "RelativeDocumentMoniker": "..\\RTTI\\RunTimeTypeIdentification.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\RTTI\\RunTimeTypeIdentification.cpp",
+              "RelativeToolTip": "..\\RTTI\\RunTimeTypeIdentification.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T23:19:51.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

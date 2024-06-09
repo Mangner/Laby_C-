@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FFEA7-C077-4FB7-82BB-16E9A8B7D4AC}|Lab_4_Ksiazek.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\Vector_UTIL.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E9FFEA7-C077-4FB7-82BB-16E9A8B7D4AC}|Lab_4_Ksiazek.vcxproj|solutionrelative:Vector_UTIL.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9FFEA7-C077-4FB7-82BB-16E9A8B7D4AC}|Lab_4_Ksiazek.vcxproj|C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E9FFEA7-C077-4FB7-82BB-16E9A8B7D4AC}|Lab_4_Ksiazek.vcxproj|solutionrelative:Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector_UTIL.hpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\Vector_UTIL.hpp",
+              "RelativeDocumentMoniker": "Vector_UTIL.hpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\Vector_UTIL.hpp",
+              "RelativeToolTip": "Vector_UTIL.hpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-19T15:30:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\vector.cpp",
+              "RelativeDocumentMoniker": "vector.cpp",
+              "ToolTip": "C:\\Users\\05lan\\Desktop\\Programowanie_C\u002B\u002B\\Lab_4_Ksiazek\\vector.cpp",
+              "RelativeToolTip": "vector.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T15:13:48.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
